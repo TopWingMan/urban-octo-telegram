@@ -1,2 +1,2 @@
 # Code Refactor Starter Code
-This is for my Module 1 Challange
+This is the code for my Module 1 refactering Challange.
